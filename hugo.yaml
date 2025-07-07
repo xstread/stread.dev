@@ -1,0 +1,81 @@
+# Basic config
+baseURL: https://stread.dev/
+theme: hugo-bearcub
+copyright: "© Stread (CC BY-SA 4.0)"
+defaultContentLanguage: en
+title: Stread's Blog
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT: true
+
+# Setup syntax highlighting without inline styles
+markup:
+  highlight:
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false  # Use the theme's accessible Dracula variation
+
+# Navigation
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 10
+
+languages:
+  en:
+    title: Stread's Blog
+    languageName: en-US
+    LanguageCode: en-us
+    contentDir: content
+    params:
+      madeWith: Made with [Bear Cub](https://github.com/clente/hugo-bearcub)
+
+params:
+  # The description of your website
+  description: A clean, suckless, and elegant personal website
+  
+  # The path to your favicon
+  favicon: favicon.png
+  
+  # These images will show up when services want to generate a preview
+  images: ["images/share.webp"]
+  
+  # This title is used as the site_name on the Hugo's internal opengraph
+  title: Stread's Blog
+  
+  # Dates are displayed following this format
+  dateFormat: Jan 2, 2006
+  
+  # Hide the "Made with Hugo" line in the footer
+  #hideMadeWithLine: true
+  
+
+  
+  # Theme style (original or herman)
+  themeStyle: original
+  
+  # Generate social cards for posts automatically
+  generateSocialCard: true
+  
+  # BearCub specific options
+  meta:
+    author: Stread
+  
+  # Social media links
+  social:
+    # twitter: yourusername
+    github: xstread
+    # facebook_admin: "0000000000"
+  
+  # Style customization
+  style:
+    # Available themes: auto, light, dark
+    theme: dark
+    # fontFamily: Serif
+    # codeFamily: Monospace
+  
+  # Author metadata for RSS and post footer
+  author:
+    name: Stread
+    email: contact@stread.dev
