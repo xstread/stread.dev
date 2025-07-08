@@ -2,6 +2,8 @@
 date: '2025-07-07T21:02:34+03:00'
 draft: false
 title: 'Fresh VPS Hardening'
+categories: ["security", "cheatsheets"]
+tags: ["security"]
 ---
 
 ## Assumptions

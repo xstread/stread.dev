@@ -1,6 +1,8 @@
 ---
 title: "Markdown Cheatsheet"
 date: '2025-07-07T20:01:32+03:00'
+categories: ["cheatsheets", "web-development"]
+tags: ["markdown"]
 ---
 
 # Markdown Cheatsheet

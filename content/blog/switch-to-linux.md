@@ -2,6 +2,8 @@
 date: '2025-07-07T20:13:33+03:00'
 draft: false
 title: 'Switch to Linux'
+categories: ["linux", "tutorials"]
+tags: ["linux"]
 ---
 
 Today I want to explain how you can transition to Linux. The first rule: **don't overcomplicate the process**. You shouldn't drown under basic decisions like choosing a distribution.

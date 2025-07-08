@@ -2,6 +2,8 @@
 title: "Hello World: My First Post"
 date: 2025-07-06
 draft: false
+categories: ["personal", "web-development"]
+tags: ["hugo"]
 ---
 
 This is my first post on my new Hugo-powered blog. I'm excited to start sharing my thoughts here.
