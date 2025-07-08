@@ -1,6 +1,6 @@
 ---
 date: '2025-07-08T13:19:04+03:00'
-draft: true
+draft: false
 title: 'Deploy Moodle With Dokku'
 categories: ["deployment", "tutorials"]
 tags: ["deployment"]
